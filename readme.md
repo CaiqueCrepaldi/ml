@@ -45,9 +45,5 @@ Os dados de treino seguem uma relação linear direta (R$ 15 por item), o que pe
 O projeto está hospedado via GitHub Pages e pode ser acessado em:
 
 ```
-https://seu-usuario.github.io/nome-do-repositorio
+<ADICIONAR DEPOIS>
 ```
-
-## Licença
-
-MIT
