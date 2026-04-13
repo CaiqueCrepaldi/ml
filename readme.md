@@ -39,11 +39,3 @@ O modelo é uma regressão linear implementada com uma rede neural de camada ún
 4. Realiza a previsão e exibe o preço estimado
 
 Os dados de treino seguem uma relação linear direta (R$ 15 por item), o que permite ao modelo convergir com alta precisão em poucas épocas.
-
-## Deploy
-
-O projeto está hospedado via GitHub Pages e pode ser acessado em:
-
-```
-https://kunglaogaucho.github.io/ML_umc/
-```
