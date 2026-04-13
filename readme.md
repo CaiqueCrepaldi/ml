@@ -23,8 +23,8 @@ Aplicação web que utiliza uma rede neural simples para prever o preço total c
 Clone o repositório e abra o arquivo `index.html` diretamente no navegador. Uma conexão com a internet é necessária para carregar o TensorFlow.js e as fontes via CDN.
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/CaiqueCrepaldi/ml
+cd "ml"
 ```
 
 Não há dependências para instalar nem build necessário.
